@@ -1,3 +1,8 @@
-All weights can be download here 
+ 
+
+Since some of the classifier's weights size was greater than 25MB (which is the limit of Github), we have compiled all the weights in a zip file uploaded on drive. It is publicly accessible through the below link.
+
+
+All weights can be download here
 
 https://drive.google.com/drive/folders/1RkCoFNPzcrhk5vRfsudTGsZzjVo6dm8L?usp=sharing
