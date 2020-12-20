@@ -18,7 +18,7 @@ or not. So our research will help to increase the quality of
 care and will increase efficiency and reduce the burden of
 the hospital management staff.
 
-### To run and apply techniques on dataset ipython file is attached main.
+### To run and apply techniques on dataset ipython file is attached Main.ipynb
 
 
 1. Introduction
